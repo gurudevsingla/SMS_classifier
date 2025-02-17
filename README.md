@@ -13,7 +13,7 @@ Given SMS we have to classify it into two categories whether it is Spam or Ham (
 # Approach
 
 - Used NLTK,Regex to preprocess text
-- Used Count Vectorizer and TF-IDF Vectorizer to convert the words into vectors
+- Used Count Vectorizer and TF-IDF Vectorizer to convert the documents into vectors
 - Algorithms Used
   - Linear SVM
   - RBF SVM
